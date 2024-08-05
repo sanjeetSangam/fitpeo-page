@@ -1,6 +1,5 @@
 import { Avatar } from "@mui/material";
 import { CiMail } from "react-icons/ci";
-import { FaBlogger } from "react-icons/fa";
 import { FiSearch } from "react-icons/fi";
 import { IoMdNotificationsOutline } from "react-icons/io";
 import { MdOutlineSettings } from "react-icons/md";
